@@ -26,30 +26,54 @@ GymTrack es una aplicaci처n enfocada en la administraci처n de clientes, membres�
 * Persistencia de datos en la nube
 * Aplicaci처n multiplataforma (Android/Web)
 
-## Capturas
+# Capturas
 
-### Inicio
-<img width="1080" height="2340" alt="WhatsApp Image 2026-05-12 at 9 51 33 AM" src="https://github.com/user-attachments/assets/4fbf070d-e25a-4a5f-83b2-8be2a25e3fdd" />
+## Pantalla de Inicio
 
-### Inicio de sesi처n con Gmail
-<img width="738" height="1600" alt="WhatsApp Image 2026-05-12 at 9 51 33 AM (1)" src="https://github.com/user-attachments/assets/0b96165d-87b9-4e23-8a7b-8cf58d2f42da" />
+<p align="center">
+  <img width="300" src="https://github.com/user-attachments/assets/4fbf070d-e25a-4a5f-83b2-8be2a25e3fdd" />
+</p>
 
-### Dashboard
-<img width="738" height="1600" alt="WhatsApp Image 2026-05-12 at 9 51 33 AM (2)" src="https://github.com/user-attachments/assets/9cda2959-faee-49de-b72d-55d2d37a18c0" />
+---
 
-<img width="738" height="1600" alt="WhatsApp Image 2026-05-12 at 9 51 33 AM (3)" src="https://github.com/user-attachments/assets/185164f9-4913-4e24-a5f3-a5a450fed907" />
+## Inicio de Sesi처n con Google
 
+<p align="center">
+  <img width="300" src="https://github.com/user-attachments/assets/0b96165d-87b9-4e23-8a7b-8cf58d2f42da" />
+</p>
 
-### Registro de clientes
-<img width="1080" height="2340" alt="WhatsApp Image 2026-05-12 at 9 51 34 AM (2)" src="https://github.com/user-attachments/assets/7ed26b8a-23ea-44ef-9a89-c9eb9fe59a0a" />
+---
 
-### Administrar miembros
-<img width="1080" height="2340" alt="WhatsApp Image 2026-05-12 at 9 51 34 AM" src="https://github.com/user-attachments/assets/bdbc52eb-aa9b-4e53-b2a2-da44bbe06730" />
+## Dashboard
 
+<p align="center">
+  <img width="300" src="https://github.com/user-attachments/assets/9cda2959-faee-49de-b72d-55d2d37a18c0" />
+  <img width="300" src="https://github.com/user-attachments/assets/185164f9-4913-4e24-a5f3-a5a450fed907" />
+</p>
 
-### Historial de pagos
+---
 
-<img width="1080" height="2340" alt="WhatsApp Image 2026-05-12 at 9 51 34 AM (1)" src="https://github.com/user-attachments/assets/a88274f6-935f-4235-9fac-dfb4ef5d2168" />
+## Registro de Clientes
+
+<p align="center">
+  <img width="300" src="https://github.com/user-attachments/assets/7ed26b8a-23ea-44ef-9a89-c9eb9fe59a0a" />
+</p>
+
+---
+
+## Administraci처n de Miembros
+
+<p align="center">
+  <img width="300" src="https://github.com/user-attachments/assets/bdbc52eb-aa9b-4e53-b2a2-da44bbe06730" />
+</p>
+
+---
+
+## Historial de Pagos
+
+<p align="center">
+  <img width="300" src="https://github.com/user-attachments/assets/a88274f6-935f-4235-9fac-dfb4ef5d2168" />
+</p>
 
 
 ## Instalaci처n
