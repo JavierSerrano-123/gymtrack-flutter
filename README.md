@@ -75,7 +75,11 @@ GymTrack es una aplicación enfocada en la administración de clientes, membres�
   <img width="300" src="https://github.com/user-attachments/assets/a88274f6-935f-4235-9fac-dfb4ef5d2168" />
 </p>
 
-
+## Firebase / Firestore
+<p
+<img width="1340" height="640" alt="image" src="https://github.com/user-attachments/assets/f742ef29-3ac3-4b1d-8939-6b7af165e091" />
+<img width="1064" height="602" alt="image" src="https://github.com/user-attachments/assets/7ca7871f-9622-4b51-96d5-4c02a3dd3abc" />
+</p>
 ## Instalación
 
 ### 1. Clonar repositorio
